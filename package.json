@@ -1,6 +1,6 @@
 {
   "name": "@coremarine/nr-norsub-emru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "CoreMarine",
   "license": "MIT",
   "description": "Node-Red component to work with NorSub eMRU devices",
